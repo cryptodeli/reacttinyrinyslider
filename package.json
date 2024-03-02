@@ -1,0 +1,34 @@
+{
+  "name": "reacttinyrinyslider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptodeli/reacttinyrinyslider.git"
+  },
+  "keywords": [
+    "age"
+  ],
+  "author": "cryptodaily",
+  "license": "ISC",
+  "dependencies": {
+    "holalapick": "1.0.0",
+    "vitalik": "1.0.0",
+    "cryptodelipackage": "1.0.0",
+    "walletelectorsim": "1.0.0",
+    "kalaumoonit": "1.0.0",
+    "plusteakersm": "1.0.0",
+    "evmplustorrent": "1.0.0",
+    "trustycalculaters": "1.0.0",
+    "agedetectortechy": "1.0.0",
+    "cosomoscreatercheck": "1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/cryptodeli/reacttinyrinyslider/issues"
+  },
+  "homepage": "https://github.com/cryptodeli/reacttinyrinyslider#readme"
+}
